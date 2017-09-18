@@ -1,4 +1,4 @@
-[![Travis builds](https://travis-ci.org/ainochu/Tuzsa-RESTful-Web-Service.svg?branch=develop)](https://travis-ci.org/ainochu/Tuzsa-RESTful-Web-Service)
+[![Travis builds](https://travis-ci.org/ainochu/Tuzsa-RESTful-Web-Service.svg?branch=master)](https://travis-ci.org/ainochu/Tuzsa-RESTful-Web-Service)
 
 # Tuzsa-RESTful-Web-Service
 
