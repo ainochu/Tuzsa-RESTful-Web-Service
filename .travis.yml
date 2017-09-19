@@ -3,3 +3,9 @@ language: java
 jdk:
   - oraclejdk8
 
+deploy:
+  provider: heroku
+  api_key:
+    secure: "r5EjwptKbf07WMq0vQ+KHMjE/pEk3pdwQYu57lYpdYpiEEEL8yiP1M7XjutXDfRPdv/eqMr/WTe/8pEUafLyQ4jVyL/T/PUspda7PuYPmzsF0HMGMOntucd/A+3da49zL+W9Rn56VJwa4pnWo4Cj+wMfYhIrAWD5pFiQG15TkU4YCtydjiR8XJgojDkced4nLi3QOkqf1gaAneEt3lh3jXwF99wtabVqQbKKv6vdgSrcKwN/39rbWjy4hf19g0ek43gcnf2sXXmxJQuKohS1yrsFuUx1804dA5jzTqI/LsdyV7bDbY173GRh6eLp1UTmMAiwR5xLNx5yo19wKfODuPXjihwBpKn3qxe1k0IEPUSr8hguMVprQd4cEym0f3wJfC+hBk3mEAbnqrs5DMyOkgtcODFcpfgN1Q9kl3b06h7wAoKHmw3USSj3YSVeYdiPQEbm2KAmXHswUib430SavC0mClXjD9KRD7XiYB36H98cufnZvc0vTmeUZUWncuPVb25Y8bTwOePN0mYuMwLSJR0n4F6Fj932IPa2/jhx/I5BkSc9bZW3w1thQthVmjmwg3hr+i9UeWFDBi+FRDJGg+nPFPZJzHR4tQ0Iwh7a7iM8m50P0TKv95+ugcuDMyyCs0thothUa+ITq6oad6yGS4h4N5BEgFC7J8cwZltL+7o="
+  app: tuzsa-backend
+  on: develop
