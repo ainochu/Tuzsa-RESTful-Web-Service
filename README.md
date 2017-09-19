@@ -1,4 +1,5 @@
 [![Travis builds](https://travis-ci.org/ainochu/Tuzsa-RESTful-Web-Service.svg?branch=master)](https://travis-ci.org/ainochu/Tuzsa-RESTful-Web-Service)
+[![Heroku deployment](https://img.shields.io/badge/deploy-heroku-9878bb.svg)](https://tuzsa-backend.herokuapp.com)
 
 # Tuzsa-RESTful-Web-Service
 
